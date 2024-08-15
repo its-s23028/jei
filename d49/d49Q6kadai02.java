@@ -1,5 +1,5 @@
-// s23016
-// d49Q6に追加で中央値を求めるプログラム
+// s23028
+// d49Q6で中央値を求めるプログラム
 
 import java.util.Arrays;
 public class d49Q6kadai02 {
